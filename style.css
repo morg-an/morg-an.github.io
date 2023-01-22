@@ -8,6 +8,9 @@ body {
 }
 header {
     background-color: #021f20;
+    position: sticky;
+    top: 0;
+    width: 100%;
 }
 .light-header {
     color: #FBEF94;
@@ -26,6 +29,7 @@ header {
     height: auto;
     max-width: 800px;
     padding: 5% 0 0 0;
+    
 }
 .logo {
     display: inline-block;
